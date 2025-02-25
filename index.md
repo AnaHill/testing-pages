@@ -39,7 +39,8 @@ A-J Mäki is combosed of
 ## 🔍 **Explore More**  
 Currently, I work as a **Data Engineer [@Solita](https://www.solita.fi/)**. 
 To find out more my skills, tools, and projects, check  
-[<span style="color:green">👉 🤓🛠️ **My Work Portfolio**👈</span>](https://anahill.github.io/portfolio/)
+[<span style="color:green">👉 🤓🛠️ **My Work Portfolio**👈</span>](work.md)
+<!-- [<span style="color:green">👉 🤓🛠️ **My Work Portfolio**👈</span>](https://anahill.github.io/portfolio/) -->
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,postgres,python,powershell,bash" />
