@@ -1,9 +1,9 @@
-<!-- Please be freely to check my codes -->
-
-<!-- # 👋 Welcome! I'm **A-J Mäki** -->
 Hi, I'm **A-J Mäki**—a curious mind with a passion for **data, sports, and lifelong learning**. Welcome to my home pages.  
 
-This is my testing zone, check 
+This is my testing zone, check my  
+[<span style="color:red">**👉 🤓🛠️ My Work Portfolio👈**</span>](work.md "work portfolio")
+
+[same with url]({{ "/work.html" | relative_url }} "my work portfolio")
 
 ## 🚀 **About Me**  
 
