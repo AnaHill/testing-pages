@@ -32,3 +32,9 @@ A-J Mäki is combosed of
   - PostgreSQL
   - DataOps
 -->
+
+
+## 📊 **Visitor's count**
+<div align="center">   
+  <img src="https://profile-counter.glitch.me/AnaHill/count.svg" alt="Visitor's Count" />
+</div>
