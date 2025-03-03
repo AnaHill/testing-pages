@@ -17,6 +17,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=false&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Moro!+Hello!+👋;I'm+A-J+Mäki,+PhD;Data+Engineer;Former+Postdoc;Life-Long+Researcher;" />
 </h1>
 
+# Flashing text 2
+<h1>I am <span id="changing-text"></span></h1>
+
+<style>
+  @keyframes changeText {
+    0%, 33%  { content: "Data Engineer"; }
+    34%, 66% { content: "Lifelong Researcher"; }
+    67%, 100% { content: "Data Nerd"; }
+  }
+
+  #changing-text::after {
+    content: "Data Engineer"; /* Default text */
+    animation: changeText 6s infinite;
+  }
+</style>
+
+
 
 # PROJECTS
 ## DatAnalyzer
